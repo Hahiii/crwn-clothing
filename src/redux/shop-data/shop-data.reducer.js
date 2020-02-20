@@ -1,5 +1,4 @@
 import SHOP_DATA from './shop.data';
-console.log(SHOP_DATA);
 
 const INITIAL_STATE = {
   collections: SHOP_DATA
